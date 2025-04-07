@@ -1,3 +1,1 @@
-Conducted exploratory data analysis on market-wide and store-specific sales data. Identified key
-sales trends, performance metrics, and customer behavior patterns. Utilized Python libraries such as
-Pandas and Matplotlib to clean, analyze, and visualize data.
+This project involves analyzing store sales data to understand the relationship between marketing spend and revenue. The dataset includes information about various stores, such as their ID, city, state, sales region, new expansion status, marketing spend, revenue, and market ID. The analysis includes data cleaning, visualization, and correlation analysis to identify patterns and outliers.
